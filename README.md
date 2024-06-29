@@ -23,6 +23,7 @@ snake -->
 </div>
 
 <!--Intro start-->
+- 👨‍💼 Check out my online [Resume](https://flowcv.com/resume/kfgpsvfoc3)
 - 🔭 I’m currently working on **C#, AWS, ASP.Net Core, Javascript, SQL Server**
 - 🌱 I’m currently learning **Software Archeticture & AI.**
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**, **AZURE**
