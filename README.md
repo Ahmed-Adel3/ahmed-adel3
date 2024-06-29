@@ -8,7 +8,6 @@
   </ul>
 </div>
 
-
 <!--- snake
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
@@ -23,10 +22,9 @@ snake -->
   </ul>
 </div>
 
-
 <!--Intro start-->
 - 🔭 I’m currently working on **C#, AWS, ASP.Net Core, Javascript, SQL Server**
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Software Archeticture & AI.**
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**, **AZURE**
 - 📝 I regularly write articles on [DEV.TO](https://dev.to/ahmedadel)
 - 💬 Ask me about **AWS, C#, Umbraco, ASP.Net, Solution Architecture**
@@ -118,7 +116,7 @@ trophy (start) -->
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmed-adel3/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://dev.to/ahmedadel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="devto" height="50" width="50" /></a>
+<a href="https://dev.to/ahmedadel" target="blank"><img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="devto" height="50" width="50" /></a>
 </p>
 
 
@@ -132,5 +130,3 @@ trophy (start) -->
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
