@@ -9,12 +9,12 @@
 </div>
 
 
-<!--- snake -->
+<!--- snake
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
+snake -->
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -26,20 +26,23 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on **C#, AWS, ASP.Net Core, Javascript, SQL Server**
-
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**, **Azure**
-
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**, **AZURE**
 - 📝 I regularly write articles on [DEV.TO](https://dev.to/ahmedadel)
-
 - 💬 Ask me about **AWS, C#, Umbraco, ASP.Net, Solution Architecture**
-
 - 📫 Feel free to reach me out **ahmed.al.adl333@gmail.com**
-
 - 🏠 Don't hesitate to connect with me on LinkedIn **👋** –  [ahmedadel333](https://www.linkedin.com/in/ahmedadel333/) !
 <!--Intro end-->
 
+<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+
+To see all the other badges are [here](https://www.credly.com/users/ahmedadel3/badges)
+
+<!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png "AWS Certified Solutions Architect – Associate")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png "AWS Certified Cloud Practitioner")
+[![McKinsey Forward Program](https://images.credly.com/size/110x110/images/47a284dc-266a-4e74-bb5e-f41df1d6edcb/image.png)](https://images.credly.com/size/110x110/images/47a284dc-266a-4e74-bb5e-f41df1d6edcb/image.png "McKinsey Forward Program")
+<!--END_SECTION:badges-->
 
 
 <!--- stats & Trophy (start) -->
@@ -99,7 +102,7 @@ trophy (start) -->
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,aws,azure,git,docker,visualstudio,vscode,devto,postgres,dynamodb,firebase,github,html,js,bootstrap,linux,md,mysql,postman,py,react,ts,vscode,jquery,ai&perline=14" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,aws,azure,git,docker,visualstudio,vscode,devto,postgres,dynamodb,firebase,github,html,js,bootstrap,linux,md,mysql,postman,py,react,ts,vscode,jquery,ai&perline=13" />
   </a>
 </p>
 
@@ -115,7 +118,7 @@ trophy (start) -->
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmed-adel3/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://dev.to/ahmedadel" target="blank"><img align="center" src="[https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png](https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png)" alt="devto" height="50" width="50" /></a>
+<a href="https://dev.to/ahmedadel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="devto" height="50" width="50" /></a>
 </p>
 
 
