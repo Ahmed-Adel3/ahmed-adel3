@@ -32,7 +32,7 @@ snake -->
 - 🏠 Don't hesitate to connect with me on LinkedIn **👋** –  [ahmedadel333](https://www.linkedin.com/in/ahmedadel333/) !
 <!--Intro end-->
 
-<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+<h2> My Badges  <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
 To see all the other badges are [here](https://www.credly.com/users/ahmedadel3/badges)
 
@@ -45,37 +45,32 @@ To see all the other badges are [here](https://www.credly.com/users/ahmedadel3/b
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ahmed-adel3&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-adel3&theme=dark&hide_border=false" /> 
-</td>
 
-<td width="50%" align="center">
+<br clear="both">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmed-adel3&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-adel3&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-adel3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ahmed-adel3&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=7&order=3" height="150" alt="streak graph"  />
+</div>
 
-<details>
-    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
+___
 
+<h2>&#128240 Latest Blogs Posts </h2>
 <!-- BLOG-POST-LIST:START -->
-- [Low Level Design - Logging Framework](https://dev.to/ahmedadel/low-level-design-logging-framework-n12)
-- [Mountpoint for Amazon S3 is now generally available and ready for production workloads 🚀](https://dev.to/aws-builders/mountpoint-for-amazon-s3-is-now-generally-available-and-ready-for-production-workloads-1kdl)
-- [AWS Multi-Region Fundamentals - WhitePaper Summary](https://dev.to/aws-builders/aws-multi-region-fundamentals-whitepaper-summary-nbg)
-- [A quick overview about AWS Application Composer](https://dev.to/aws-builders/a-quick-overview-about-aws-application-composer-30h1)
-- [Create your logging server for 4$ monthly !](https://dev.to/aws-builders/create-your-logging-server-for-4-monthly--fhj)
-- [Create your own Image CDN using AWS CloudFormation and AWS Lamda](https://dev.to/aws-builders/create-your-own-image-cdn-using-aws-cloudformation-and-aws-lamda-2mj5)
-<!-- BLOG-POST-LIST:END -->
 
-</details>
+   - [Low Level Design - Logging Framework](https://dev.to/ahmedadel/low-level-design-logging-framework-n12)
+   
+   - [Mountpoint for Amazon S3 is now generally available and ready for production workloads 🚀](https://dev.to/aws-builders/mountpoint-for-amazon-s3-is-now-generally-available-and-ready-for-production-workloads-1kdl)
+     
+   - [AWS Multi-Region Fundamentals - WhitePaper Summary](https://dev.to/aws-builders/aws-multi-region-fundamentals-whitepaper-summary-nbg)
+     
+   - [A quick overview about AWS Application Composer](https://dev.to/aws-builders/a-quick-overview-about-aws-application-composer-30h1)
+     
+   - [Create your logging server for 4$ monthly !](https://dev.to/aws-builders/create-your-logging-server-for-4-monthly--fhj)
+     
+   - [Create your own Image CDN using AWS CloudFormation and AWS Lamda](https://dev.to/aws-builders/create-your-own-image-cdn-using-aws-cloudformation-and-aws-lamda-2mj5)
+<!-- BLOG-POST-LIST:END -->
 <!--- stats (end) -->
 
 <!--- trophy (start)
@@ -94,13 +89,23 @@ trophy (start) -->
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies I Use 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,aws,azure,git,docker,visualstudio,vscode,devto,postgres,dynamodb,firebase,github,html,js,bootstrap,linux,md,mysql,postman,py,react,ts,vscode,jquery,ai&perline=13" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,aws,azure,git,docker,visualstudio,vscode,rabbitmq,redis,vercel,devto,d3,sqlite,npm,cloudflare,postgres,dynamodb,mongodb,firebase,github,html,css,js,bootstrap,linux,md,mysql,postman,py,react,ts,vscode,jquery,angular,next&perline=12" />
+    <div align="center">
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />      
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+      <img width="12" />
+      <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+    </div>
   </a>
 </p>
 
