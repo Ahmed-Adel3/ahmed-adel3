@@ -1,21 +1,3 @@
-## Hi there 👋
-
-<!--
-**Ahmed-Adel3/ahmed-adel3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -79,15 +61,29 @@ Here are some ideas to get you started:
   </td>
 </tr>
 </table>
+
+<details>
+    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
+
+<!-- BLOG-POST-LIST:START -->
+- [Low Level Design - Logging Framework](https://dev.to/ahmedadel/low-level-design-logging-framework-n12)
+- [Mountpoint for Amazon S3 is now generally available and ready for production workloads 🚀](https://dev.to/aws-builders/mountpoint-for-amazon-s3-is-now-generally-available-and-ready-for-production-workloads-1kdl)
+- [AWS Multi-Region Fundamentals - WhitePaper Summary](https://dev.to/aws-builders/aws-multi-region-fundamentals-whitepaper-summary-nbg)
+- [A quick overview about AWS Application Composer](https://dev.to/aws-builders/a-quick-overview-about-aws-application-composer-30h1)
+- [Create your logging server for 4$ monthly !](https://dev.to/aws-builders/create-your-logging-server-for-4-monthly--fhj)
+- [Create your own Image CDN using AWS CloudFormation and AWS Lamda](https://dev.to/aws-builders/create-your-own-image-cdn-using-aws-cloudformation-and-aws-lamda-2mj5)
+<!-- BLOG-POST-LIST:END -->
+
+</details>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
+<!--- trophy (start)
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ahmed-adel3&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
+trophy (start) -->
 
 
 </p>        
